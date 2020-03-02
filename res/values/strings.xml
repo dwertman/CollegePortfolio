@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">What\'s In Your Fridge?</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_image">Item Image</string>
+    <string name="item_name">(Item Name)</string>
+    <string name="purchase_date">(Purchase Date)</string>
+    <string name="expires_in">Expires in</string>
+    <string name="_15">15</string>
+    <string name="itemNum">Item #</string>
+    <string name="purchase_date_label">Purchase Date:</string>
+    <string name="expiration_date">Expiration Date:</string>
+    <string name="item_name_label">Item Name:</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="days">Days</string>
+</resources>
